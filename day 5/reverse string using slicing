@@ -1,0 +1,5 @@
+#Reverse String using slicing
+s = "Hello"
+r = s[::-1]
+
+print(r)
